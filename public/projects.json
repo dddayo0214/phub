@@ -1,0 +1,48 @@
+[
+    {
+        "id": "my-portfolio",
+        "name": "個人作品集",
+        "description": "我的個人網站",
+        "type": "website",
+        "platform": "both",
+        "status": "active",
+        "tags": [
+            "網站",
+            "作品集"
+        ],
+        "url": "https://github.com/dddayo0214/dddayo0214.github.io",
+        "openMode": "iframe",
+        "updatedAt": "2026-11-01"
+    },
+    {
+        "id": "todo-react",
+        "name": "待辦清單",
+        "description": "用 React 做的待辦事項工具",
+        "type": "react",
+        "platform": "both",
+        "status": "done",
+        "tags": [
+            "React",
+            "工具"
+        ],
+        "url": "https://example.com/todo",
+        "openMode": "newtab"
+    },
+    {
+        "id": "notes-app",
+        "name": "筆記 App",
+        "description": "Android 筆記程式",
+        "type": "android",
+        "platform": "mobile",
+        "status": "active",
+        "tags": [
+            "Android",
+            "工具"
+        ],
+        "apkUrl": "https://github.com/your-name/notes-app/releases/latest/download/notes.apk",
+        "version": "1.0.0",
+        "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+        "sizeMB": 12.5,
+        "updatedAt": "2026-11-10"
+    }
+]
